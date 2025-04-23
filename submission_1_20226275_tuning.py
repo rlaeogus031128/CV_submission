@@ -29,7 +29,7 @@ def submission_1_20226275(yaml_path, output_json_path):
     optimizer = 'AdamW' 
     lr = 5e-4
     momentum = 0.4
-    weight_decay = 1e-5 681, 332
+    weight_decay = 1e-5 #681, 332
 
     
     # data_config = load_yaml_config(yaml_path)
