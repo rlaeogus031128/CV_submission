@@ -1,0 +1,930 @@
+{
+    "Datasets/Crown Detection/images/slice_09_13_png.rf.9c4788da0064da8f9d04cf1f8a4bd482.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_03_11_png.rf.959202501931bbd2e059b7abf930eb95.jpg": {
+        "IoU": 0.6489519890753371,
+        "Dice": 0.7871084099170674,
+        "Precision": 0.9506176523102194,
+        "Recall": 0.6715923942759856,
+        "detected_boxes_count": 8,
+        "ground_truth_boxes_count": 14
+    },
+    "Datasets/Crown Detection/images/slice_16_09_png.rf.13addd8874f4db3396c4dd9bb7556887.jpg": {
+        "IoU": 0.5682250737988968,
+        "Dice": 0.7246728588804132,
+        "Precision": 0.9473409581160737,
+        "Recall": 0.5867580905744267,
+        "detected_boxes_count": 13,
+        "ground_truth_boxes_count": 17
+    },
+    "Datasets/Crown Detection/images/slice_12_03_png.rf.0f455fa161dc9253c2013364af3c7e26.jpg": {
+        "IoU": 0.5920598424194975,
+        "Dice": 0.7437658141288555,
+        "Precision": 0.9597654308621434,
+        "Recall": 0.6071287103773908,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/Crown Detection/images/slice_14_13_png.rf.ba270fd1269b1a879999af6e824158eb.jpg": {
+        "IoU": 0.26792665335940324,
+        "Dice": 0.42262169132500665,
+        "Precision": 0.9999999999631255,
+        "Recall": 0.26792665335940324,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/slice_09_15_png.rf.ba0ca22aa01fd8a313a4f670f86d3ab5.jpg": {
+        "IoU": 0.5371879775511215,
+        "Dice": 0.6989229494325219,
+        "Precision": 0.7161898292965285,
+        "Recall": 0.6824690558464146,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_05_08_png.rf.1dfaf0204f3cc0a6a94c717235549c38.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/48_png.rf.812a5abde26b4e3a10673ec78a7489ca.jpg": {
+        "IoU": 0.39712841469148585,
+        "Dice": 0.5684923597795123,
+        "Precision": 0.496804574470447,
+        "Recall": 0.6643576825598815,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/slice_14_07_png.rf.c5bef9511b54ba175a058d0416f5dd94.jpg": {
+        "IoU": 0.4242478203369364,
+        "Dice": 0.5957500011993299,
+        "Precision": 0.9579808539775447,
+        "Recall": 0.4322921028359413,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 14
+    },
+    "Datasets/Crown Detection/images/133_png.rf.2127045ff60efddc0377543223a5e0e0.jpg": {
+        "IoU": 0.47443548064918817,
+        "Dice": 0.6435486487890214,
+        "Precision": 0.8099516710727668,
+        "Recall": 0.5338667464213884,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 20
+    },
+    "Datasets/Crown Detection/images/slice_01_12_png.rf.69ad2973cc71bf5833b07b6da606cf17.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/slice_02_09_png.rf.0c67a848975e9357abe18357503a7738.jpg": {
+        "IoU": 0.09448645473206913,
+        "Dice": 0.17265897503537303,
+        "Precision": 0.9999999992229991,
+        "Recall": 0.09448645473206913,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_12_15_png.rf.a3f0d9cc5d8ba6c495e5a08ec3694f98.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/110_png.rf.06b79eb236daeff14f060de64fc9d46e.jpg": {
+        "IoU": 0.5818828674789541,
+        "Dice": 0.7356838858825249,
+        "Precision": 0.9683196482744986,
+        "Recall": 0.5931753629550804,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 17
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_15_02_png.rf.4384baa629708f6a87ac40b3386b30a0.jpg": {
+        "IoU": 0.7785845829635052,
+        "Dice": 0.875510324806949,
+        "Precision": 0.8067277286660818,
+        "Recall": 0.9571151357725022,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_01_12_png.rf.2302f4ecd30e827099d7ef81f0f5cec6.jpg": {
+        "IoU": 0.793370910979748,
+        "Dice": 0.884781732682746,
+        "Precision": 0.8162577446931223,
+        "Recall": 0.9658651025826472,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/63_png.rf.852d5e86b350e2b73295c48f88713feb.jpg": {
+        "IoU": 0.20584769205703984,
+        "Dice": 0.3414157416611827,
+        "Precision": 0.40724470512167166,
+        "Recall": 0.2939071909264274,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 17
+    },
+    "Datasets/Crown Detection/images/slice_13_08_png.rf.4bfa19f5b2550aa4afc61e7c87002e32.jpg": {
+        "IoU": 0.4485402055073393,
+        "Dice": 0.6192996284148589,
+        "Precision": 0.952495137586857,
+        "Recall": 0.4588039014314836,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 7
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_02_04_png.rf.ca0ddfd4954980b95c7da6792a626ecc.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_11_16_png.rf.4f5ffc23d1f3086a662d40ef7a28b777.jpg": {
+        "IoU": 0.7250718452734414,
+        "Dice": 0.8406279973324939,
+        "Precision": 0.9594376583360869,
+        "Recall": 0.7480010780030544,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/slice_08_05_png.rf.7fd21ce7264575ad4e35ef540f5a3ffa.jpg": {
+        "IoU": 0.24992404036832233,
+        "Dice": 0.39990276576275113,
+        "Precision": 0.2815578290692748,
+        "Recall": 0.6898704686711518,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/slice_13_09_png.rf.6f1c61b3e76b7ae4b9444814bc74053d.jpg": {
+        "IoU": 0.4262467992068632,
+        "Dice": 0.5977181501040344,
+        "Precision": 0.9176515648812973,
+        "Recall": 0.44319946089570633,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 16
+    },
+    "Datasets/Crown Detection/images/slice_12_08_png.rf.b434c21bf7b542862a688f5bda4ad4ab.jpg": {
+        "IoU": 0.5724999018302152,
+        "Dice": 0.7281398252093866,
+        "Precision": 0.9771150946229815,
+        "Recall": 0.5802805690860555,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_12_06_png.rf.6a1d504951907c15aff77caeaf87783e.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_04_04_png.rf.03293152f75e40fb2965e532afe2464b.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/103_png.rf.1d4dd8c860c2350d646494a13fec7356.jpg": {
+        "IoU": 0.6795818580226002,
+        "Dice": 0.8092274333359177,
+        "Precision": 0.8872501540704576,
+        "Recall": 0.7438178194296926,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/Crown Detection/images/31_png.rf.f8e4bb27c6d9998173e4abaedfcfce46.jpg": {
+        "IoU": 0.4609286943075508,
+        "Dice": 0.6310077912817247,
+        "Precision": 0.9731350293389724,
+        "Recall": 0.4668694607145345,
+        "detected_boxes_count": 11,
+        "ground_truth_boxes_count": 23
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_06_04_png.rf.4985df5472903fbb5c4d290b7f062739.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/90_png.rf.50b3101b3e90e64d7ee4622c41be932c.jpg": {
+        "IoU": 0.4369065024942377,
+        "Dice": 0.6081209901073432,
+        "Precision": 0.7588953938899432,
+        "Recall": 0.507327185636798,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 10
+    },
+    "Datasets/Crown Detection/images/slice_07_07_png.rf.bb22acdc954e0f68d68887c15d78f7c4.jpg": {
+        "IoU": 0.4889199758214186,
+        "Dice": 0.6567444641229796,
+        "Precision": 0.5670981303032379,
+        "Recall": 0.7800547833630894,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_05_16_png.rf.78219d6df58f23b900a5b631c922e9fe.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/70_png.rf.1b745ae6079d77dcc54d3162badb454d.jpg": {
+        "IoU": 0.6265977188718156,
+        "Dice": 0.7704396872097111,
+        "Precision": 0.8640558957743449,
+        "Recall": 0.6951261825843694,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 12
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_12_03_png.rf.fed15801b2d30269711d0b3fbdf0d802.jpg": {
+        "IoU": 0.29458403462193683,
+        "Dice": 0.4551022208580929,
+        "Precision": 0.9600744440991268,
+        "Recall": 0.29823760664854226,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 10
+    },
+    "Datasets/Crown Detection/images/59_png.rf.9a107bfa3a4d71d40009e72b046f953d.jpg": {
+        "IoU": 0.22855977966743585,
+        "Dice": 0.3720775878391618,
+        "Precision": 0.7531118056491443,
+        "Recall": 0.24707226249575392,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 33
+    },
+    "Datasets/Crown Detection/images/50_png.rf.78ba17153620e1e1f3b74391e85f66a6.jpg": {
+        "IoU": 0.27044292612602233,
+        "Dice": 0.4257458884055301,
+        "Precision": 0.8521319675782476,
+        "Recall": 0.28375953119606,
+        "detected_boxes_count": 6,
+        "ground_truth_boxes_count": 17
+    },
+    "Datasets/Crown Detection/images/171_png.rf.8c821400548498cc99b4a9ac8e75ae57.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/slice_07_08_png.rf.a12dfb344dde2882e9c160e55ea4f27c.jpg": {
+        "IoU": 0.5878142106408192,
+        "Dice": 0.7404067890330642,
+        "Precision": 0.8847584667286297,
+        "Recall": 0.6365510814917712,
+        "detected_boxes_count": 8,
+        "ground_truth_boxes_count": 13
+    },
+    "Datasets/Crown Detection/images/53_png.rf.d14d1c0f0b1af98b126dfb3914321236.jpg": {
+        "IoU": 0.31230136194406455,
+        "Dice": 0.4759598229501434,
+        "Precision": 0.9010319353559737,
+        "Recall": 0.3233946847110908,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/119_png.rf.fea4b915b8f7cc9f43d6e76847c496d0.jpg": {
+        "IoU": 0.3734623230397026,
+        "Dice": 0.5438260908579826,
+        "Precision": 0.7904618604742599,
+        "Recall": 0.4144969297652054,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 7
+    },
+    "Datasets/Crown Detection/images/slice_05_07_png.rf.1b7a2f614208054c94e4985d2d472d92.jpg": {
+        "IoU": 0.7447425670653184,
+        "Dice": 0.8536990856112211,
+        "Precision": 0.9607313702357663,
+        "Recall": 0.7681245644024525,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/159_png.rf.94d2b51265f41fb4131fd45c8dce900f.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 9
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_10_13_png.rf.5af4c61986e8b47bfc3a634f4a8276c7.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_09_05_png.rf.4298962bcc345c1ad8436ef4d44e297a.jpg": {
+        "IoU": 0.809371425025363,
+        "Dice": 0.8946437573081686,
+        "Precision": 0.9172053748021722,
+        "Recall": 0.8731654436145236,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/Crown Detection/images/199_png.rf.54ec442e4ce3f807c73e7a29445d154d.jpg": {
+        "IoU": 0.10127052597146056,
+        "Dice": 0.18391580194544313,
+        "Precision": 0.9747056257326903,
+        "Recall": 0.10153737120335153,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 23
+    },
+    "Datasets/Crown Detection/images/7_png.rf.af9702a119b65612f768ed6d60d3fd37.jpg": {
+        "IoU": 0.2540974010733128,
+        "Dice": 0.4052275379182588,
+        "Precision": 0.3993376569523173,
+        "Recall": 0.41129376094530073,
+        "detected_boxes_count": 11,
+        "ground_truth_boxes_count": 18
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_10_11_png.rf.d7b8bacc2f609d9be5adb67af75290ae.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_06_07_png.rf.5bd9a8f8bf318b4aa739339fac034bd7.jpg": {
+        "IoU": 0.15622637705204726,
+        "Dice": 0.2702349300322436,
+        "Precision": 0.7297551787359333,
+        "Recall": 0.1658197378889639,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/Crown Detection/images/slice_13_06_png.rf.4145b65ec49096e38c8df7e251b0eb6d.jpg": {
+        "IoU": 0.6574766355084327,
+        "Dice": 0.7933464899874755,
+        "Precision": 0.9028806776312537,
+        "Recall": 0.707513531298388,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 10
+    },
+    "Datasets/Crown Detection/images/168_png.rf.e258a132136fc7b414e726f07d0ac020.jpg": {
+        "IoU": 0.3410132093822573,
+        "Dice": 0.5085903807604495,
+        "Precision": 0.8083328056478081,
+        "Recall": 0.3710129764393826,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 21
+    },
+    "Datasets/Crown Detection/images/26_png.rf.93fadec1708e308c3b3995f6fd83d492.jpg": {
+        "IoU": 0.31816037271896286,
+        "Dice": 0.4827339363308199,
+        "Precision": 0.7414729125932545,
+        "Recall": 0.3578583115867216,
+        "detected_boxes_count": 11,
+        "ground_truth_boxes_count": 18
+    },
+    "Datasets/Crown Detection/images/slice_12_14_png.rf.440e38d1d0cd344c8c20e558b7ba9683.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_10_02_png.rf.160fa1f593e02ead9be42cf2078a06d9.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 5
+    },
+    "Datasets/Crown Detection/images/slice_11_06_png.rf.95772aa5f0aa3d74704c55f850c0807a.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/slice_10_06_png.rf.c325acbdb0b0998e8dab6359977ad0ff.jpg": {
+        "IoU": 0.6837199581741392,
+        "Dice": 0.8121540103564244,
+        "Precision": 0.8436307374500448,
+        "Recall": 0.7829416550623203,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_07_16_png.rf.8e3c3c0cd36c9df30d9098e0c02b3540.jpg": {
+        "IoU": 0.6508492623585133,
+        "Dice": 0.7885023511215877,
+        "Precision": 0.7040911117586189,
+        "Recall": 0.8959101654634537,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/Crown Detection/images/slice_05_14_png.rf.1c12c6e1da796a92146ac5dafba02e95.jpg": {
+        "IoU": 0.2923791637765054,
+        "Dice": 0.45246653918828933,
+        "Precision": 0.7010309277935164,
+        "Recall": 0.3340296990476532,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/slice_09_05_png.rf.15a23bec37c493939da9375381be8ad7.jpg": {
+        "IoU": 0.2793562487396943,
+        "Dice": 0.4367137754083598,
+        "Precision": 0.34758961678223405,
+        "Recall": 0.5873015872198132,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/87_png.rf.92214480b94db83d295301b111154845.jpg": {
+        "IoU": 0.14361853878486894,
+        "Dice": 0.2511651112922115,
+        "Precision": 0.44435082649477003,
+        "Recall": 0.17505729866158132,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 24
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_01_09_png.rf.da6be0d1e8e1914f7c491cb63a5fd43c.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_08_09_png.rf.337e726981b5f4977c8d7442c1e2c19f.jpg": {
+        "IoU": 0.45458985367708044,
+        "Dice": 0.6250419697730129,
+        "Precision": 0.8501674531568668,
+        "Recall": 0.49418193079165157,
+        "detected_boxes_count": 8,
+        "ground_truth_boxes_count": 11
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_10_03_png.rf.1431f034493ec299222f5caaa88c1b39.jpg": {
+        "IoU": 0.13583248259553973,
+        "Dice": 0.239176964344501,
+        "Precision": 0.9408157558137421,
+        "Recall": 0.13700315595009524,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 11
+    },
+    "Datasets/Crown Detection/images/slice_09_10_png.rf.77d3b8dd0c4a72230ab80ac2d4f7d232.jpg": {
+        "IoU": 0.5606107026072227,
+        "Dice": 0.7184504138932823,
+        "Precision": 0.8583714475419575,
+        "Recall": 0.6177521451594071,
+        "detected_boxes_count": 15,
+        "ground_truth_boxes_count": 22
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_15_09_png.rf.116cf5b2fcba7d0db8349981c9d6787b.jpg": {
+        "IoU": 0.7514241325509056,
+        "Dice": 0.8580721466438572,
+        "Precision": 0.8339080459488198,
+        "Recall": 0.8836784408940431,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 5
+    },
+    "Datasets/Crown Detection/images/slice_15_09_png.rf.04606afe838c977048a7d0b548c40b78.jpg": {
+        "IoU": 0.23378472373041675,
+        "Dice": 0.3789716621284719,
+        "Precision": 0.955662179551387,
+        "Recall": 0.23634825411345314,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 15
+    },
+    "Datasets/Crown Detection/images/slice_07_06_png.rf.03e3fa147d4b18867e821a538bcfbb08.jpg": {
+        "IoU": 0.7395145418681445,
+        "Dice": 0.8502539347258872,
+        "Precision": 0.8743358713384137,
+        "Recall": 0.8274630225372532,
+        "detected_boxes_count": 14,
+        "ground_truth_boxes_count": 15
+    },
+    "Datasets/Crown Detection/images/slice_07_16_png.rf.7c001e3a6cc7add186d181fa0adb9fde.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_11_08_png.rf.8ee93c54cb41e5db9ac43f7016b3e197.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_02_06_png.rf.464cd2ac9852d810add45e619e6bb8e5.jpg": {
+        "IoU": 0.8115001157404358,
+        "Dice": 0.8959426595551078,
+        "Precision": 0.8641975306508155,
+        "Recall": 0.9301089553733434,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_08_13_png.rf.6fb527d8c13136d37426961d9f9dbe5d.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_04_05_png.rf.a7ddf54111bba910f606c342e4292280.jpg": {
+        "IoU": 0.7819310247411324,
+        "Dice": 0.8776221008383043,
+        "Precision": 0.8644834307823688,
+        "Recall": 0.8911663049415005,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/Crown Detection/images/slice_15_11_png.rf.5dc266ec582c609953300569b8c1b048.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_01_05_png.rf.98f857059e98230a7f2ac863fbd967c7.jpg": {
+        "IoU": 0.40214809455725,
+        "Dice": 0.5736171466028123,
+        "Precision": 0.4778500428914161,
+        "Recall": 0.7173913042156611,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_12_08_png.rf.04afaa48c34ff5ec3cd08bf7fdc36d06.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_16_07_png.rf.a9c903649d72bcb60b04d54bea558bf1.jpg": {
+        "IoU": 0.016186578901262693,
+        "Dice": 0.031857493962898435,
+        "Precision": 0.21762114535314525,
+        "Recall": 0.01718672686775431,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 7
+    },
+    "Datasets/Crown Detection/images/75_png.rf.08c4c2fd558427841eda27c9e17f5975.jpg": {
+        "IoU": 0.4485166793015082,
+        "Dice": 0.61927720365331,
+        "Precision": 0.8767694287227447,
+        "Recall": 0.4786931818108704,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 19
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_14_09_png.rf.3a7f2a74df02e98a235c71d30d3436a9.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_04_04_png.rf.4eafa4ef29cc9ca712226228d5643471.jpg": {
+        "IoU": 0.40025878796632963,
+        "Dice": 0.5716925919781539,
+        "Precision": 0.8590604024857531,
+        "Recall": 0.4283900749649867,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/Crown Detection/images/slice_05_09_png.rf.43af2d5e3099ed194573945821f8fe1f.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_08_02_png.rf.3a46f2f57b6a1989ce7492af41e58e9a.jpg": {
+        "IoU": 0.7546817375949672,
+        "Dice": 0.860192160692756,
+        "Precision": 0.9192042934943878,
+        "Recall": 0.8082999896989689,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 6
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_10_12_png.rf.b0c0f584698d0068278c4eb8b314794f.jpg": {
+        "IoU": 0.4900516958645807,
+        "Dice": 0.657764689942835,
+        "Precision": 0.931234425870652,
+        "Recall": 0.5084510727234838,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/slice_14_14_png.rf.042e76a9d49630c8a9948663b6f5ec53.jpg": {
+        "IoU": 0.8743994507765271,
+        "Dice": 0.9329915780910846,
+        "Precision": 0.8743994507765271,
+        "Recall": 0.9999999998037676,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_08_07_png.rf.96d0fe1923abb3d8c9007e308e830bc0.jpg": {
+        "IoU": 0.6894668899468029,
+        "Dice": 0.8161946162419467,
+        "Precision": 0.8886165883290551,
+        "Recall": 0.7546877983434278,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 4
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_15_15_png.rf.b21fa0bd3f1dd7e05d85183b9983f2b1.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 5
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_09_12_png.rf.c428ed9e582f6789755310c04ed20bd3.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_02_09_png.rf.9243cd1cc8940ccbdb1a20c2928a1167.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_04_06_png.rf.d4645184858cb95a1749bb597089f7c5.jpg": {
+        "IoU": 0.46696562030890604,
+        "Dice": 0.6366415324860508,
+        "Precision": 0.868674028690818,
+        "Recall": 0.5024354378962211,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 11
+    },
+    "Datasets/Crown Detection/images/98_png.rf.d34e0f4c6267f265d94c9d0184598a8f.jpg": {
+        "IoU": 0.3452244493270358,
+        "Dice": 0.5132592549886205,
+        "Precision": 0.5880319780325577,
+        "Recall": 0.45535714284783924,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 11
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_15_14_png.rf.dd6f75140e61e4bb7d2db7b5febfb44a.jpg": {
+        "IoU": 0.8700863091526562,
+        "Dice": 0.9305306443817514,
+        "Precision": 0.9761369372602134,
+        "Recall": 0.8889956952334949,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_06_15_png.rf.136883dcb55da52203077a47072d18db.jpg": {
+        "IoU": 0.7617686750692741,
+        "Dice": 0.8647771819865293,
+        "Precision": 0.9130873313240891,
+        "Recall": 0.8213221951997446,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/78_png.rf.11faec2f22672b569ac5a8ff531bc5b9.jpg": {
+        "IoU": 0.3430505804900154,
+        "Dice": 0.5108528084844765,
+        "Precision": 0.9910825687709695,
+        "Recall": 0.34411273778596496,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 13
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_14_13_png.rf.80c951ac51a0d773c06b3738407b9164.jpg": {
+        "IoU": 0.7436359326678446,
+        "Dice": 0.852971562165557,
+        "Precision": 0.780486591353289,
+        "Recall": 0.9402985074345053,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/slice_12_10_png.rf.11d692b5f074bdf169ff11f61ee4b2ce.jpg": {
+        "IoU": 0.7166749328052611,
+        "Dice": 0.8349570662561312,
+        "Precision": 0.8980214189576966,
+        "Recall": 0.7801690041713627,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_15_08_png.rf.fc1026a4d9dd1db3902447be64527e15.jpg": {
+        "IoU": 0.4585929777618895,
+        "Dice": 0.6288155568465287,
+        "Precision": 0.45989742703702546,
+        "Recall": 0.9938530314805016,
+        "detected_boxes_count": 4,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/slice_09_12_png.rf.fd646ea1795df5c9240d4373f665cc0f.jpg": {
+        "IoU": 0.5294779211502163,
+        "Dice": 0.6923642555781805,
+        "Precision": 0.7252114693305245,
+        "Recall": 0.662363627379889,
+        "detected_boxes_count": 6,
+        "ground_truth_boxes_count": 9
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_12_01_png.rf.59ca95a56bda29a3f112a80b725b32fc.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_07_05_png.rf.280303eb7fa44f0d6a00bad79af3c88c.jpg": {
+        "IoU": 0.3481065696837994,
+        "Dice": 0.5164377616903809,
+        "Precision": 0.39069404268973584,
+        "Recall": 0.7615358007346408,
+        "detected_boxes_count": 10,
+        "ground_truth_boxes_count": 9
+    },
+    "Datasets/Crown Detection/images/slice_07_09_png.rf.cb500bffd2d2482c26de650a4b66bed5.jpg": {
+        "IoU": 0.5290605212011644,
+        "Dice": 0.6920072997314156,
+        "Precision": 0.906575493606631,
+        "Recall": 0.559568649702703,
+        "detected_boxes_count": 10,
+        "ground_truth_boxes_count": 19
+    },
+    "Datasets/Crown Detection/images/slice_03_02_png.rf.9c81a3289bc9033135268b478a7b1ee0.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/147_png.rf.cfefeb06d5824ea02b4cc1f1d5827496.jpg": {
+        "IoU": 0.49265060768521235,
+        "Dice": 0.6601017078594301,
+        "Precision": 0.8441787902393075,
+        "Recall": 0.5419311243443798,
+        "detected_boxes_count": 10,
+        "ground_truth_boxes_count": 18
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_04_06_png.rf.cd6f6bb285fe79a7ef6cf68953a58d09.jpg": {
+        "IoU": 0.36199929724871166,
+        "Dice": 0.5315704611301393,
+        "Precision": 0.43124738382756916,
+        "Recall": 0.6927214657537557,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_09_01_png.rf.179d1dce8f7d93222d0643c49ece72e5.jpg": {
+        "IoU": 0.4289719626053679,
+        "Dice": 0.6003924133308345,
+        "Precision": 0.9999999999377529,
+        "Recall": 0.4289719626053679,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 1
+    },
+    "Datasets/Crown Detection/images/slice_16_05_png.rf.348409ec2ebc805c8a04266115d2fb60.jpg": {
+        "IoU": 0.1371652514658947,
+        "Dice": 0.24124066627797144,
+        "Precision": 0.4321358140759551,
+        "Recall": 0.16732512200234637,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_03_14_png.rf.07fb5fcbde0dae860463c1317a5d61a3.jpg": {
+        "IoU": 0.137244314127773,
+        "Dice": 0.24136293744943388,
+        "Precision": 0.9935188560579755,
+        "Recall": 0.13736729944711057,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 16
+    },
+    "Datasets/Crown Detection/images/slice_16_08_png.rf.a13f81debd00990871fde883285cc72c.jpg": {
+        "IoU": 0.44465095108531694,
+        "Dice": 0.6155825401994383,
+        "Precision": 0.9372963680877632,
+        "Recall": 0.45828324585902913,
+        "detected_boxes_count": 5,
+        "ground_truth_boxes_count": 11
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_03_11_png.rf.06a372aa2262d57e0025e8376194921f.jpg": {
+        "IoU": 0.3634558093018456,
+        "Dice": 0.5331391113995141,
+        "Precision": 0.9850746266246453,
+        "Recall": 0.3654684095528805,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 2
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_16_04_png.rf.dbfb859145f5e561828df013349e974e.jpg": {
+        "IoU": 0.8481547501015357,
+        "Dice": 0.9178395370354555,
+        "Precision": 0.9449971496175914,
+        "Recall": 0.892199246473042,
+        "detected_boxes_count": 11,
+        "ground_truth_boxes_count": 12
+    },
+    "Datasets/Crown Detection/images/slice_04_07_png.rf.8a487110ee6cf0dfa53339d070faee81.jpg": {
+        "IoU": 0.5601821593413572,
+        "Dice": 0.7180984040707686,
+        "Precision": 0.6994590183262547,
+        "Recall": 0.7377584028552701,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 8
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_14_03_png.rf.3330d1584343a4b9a118e65d84993f3c.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 0,
+        "ground_truth_boxes_count": 0
+    },
+    "Datasets/Crown Detection/images/slice_06_01_png.rf.93b6978b58592dd1ce524008cbb5bea2.jpg": {
+        "IoU": 0.0,
+        "Dice": 0.0,
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "detected_boxes_count": 1,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/slice_12_04_png.rf.2b21c80d8c646af67ff4479d54d052ad.jpg": {
+        "IoU": 0.12775443521015944,
+        "Dice": 0.22656427892718,
+        "Precision": 0.6854570505348381,
+        "Recall": 0.1357103216029587,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 7
+    },
+    "Datasets/Crown Detection/images/slice_10_15_png.rf.91dcaa523016c4069f75d806e50b8dbc.jpg": {
+        "IoU": 0.6151188945521273,
+        "Dice": 0.7617010693478388,
+        "Precision": 0.7512018050867063,
+        "Recall": 0.7724979821658093,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_05_06_png.rf.9f9707930d388f4a00bc5c9788a89088.jpg": {
+        "IoU": 0.27887935685578613,
+        "Dice": 0.436130828699011,
+        "Precision": 0.9115961199093563,
+        "Recall": 0.2866312681074252,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 7
+    },
+    "Datasets/Crown Detection/images/Google_Satelite_05_05_png.rf.bbddffd945b41467eb90e79c750adf8d.jpg": {
+        "IoU": 0.446892314152011,
+        "Dice": 0.6177271242385773,
+        "Precision": 0.9266243194024206,
+        "Recall": 0.4632869353713656,
+        "detected_boxes_count": 3,
+        "ground_truth_boxes_count": 7
+    },
+    "Datasets/Crown Detection/images/slice_14_12_png.rf.5ea54b09680711750247b011a2c170fc.jpg": {
+        "IoU": 0.6267738359028056,
+        "Dice": 0.7705728012953527,
+        "Precision": 0.97310555527462,
+        "Recall": 0.6378225920000614,
+        "detected_boxes_count": 2,
+        "ground_truth_boxes_count": 3
+    },
+    "Datasets/Crown Detection/images/66_png.rf.698ccfca2f5de13b648a4fe3843162a3.jpg": {
+        "IoU": 0.38693606933488656,
+        "Dice": 0.5579724659124973,
+        "Precision": 0.7463118413869206,
+        "Recall": 0.44553674243564706,
+        "detected_boxes_count": 7,
+        "ground_truth_boxes_count": 20
+    },
+    "Datasets/Crown Detection/images/58_png.rf.1b0f78052f8f3d9b6bf164092799d688.jpg": {
+        "IoU": 0.36737308781819106,
+        "Dice": 0.5373414046116399,
+        "Precision": 0.8660833309574542,
+        "Recall": 0.3894983226374128,
+        "detected_boxes_count": 9,
+        "ground_truth_boxes_count": 33
+    }
+}
